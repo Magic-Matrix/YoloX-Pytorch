@@ -1,0 +1,12 @@
+# 所有权重文件
+weights/*
+model_data/weights/*
+
+# 所有日志文件
+logs/*
+
+# pycharm文件
+.idea/
+
+# python文件夹
+*/__pycache__
