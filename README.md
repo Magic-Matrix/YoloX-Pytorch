@@ -14,7 +14,7 @@
 ### 论文
 
 - 原论文地址：[https://arxiv.org/abs/2107.08430](https://arxiv.org/abs/2107.08430)
-- 翻译（自己的翻译，仅供学习）：
+- 翻译（自己的翻译，仅供学习）：[YoloX-Pytorch/YOLOX Exceeding YOLO Series in 2021.md at master · Magic-Matrix/YoloX-Pytorch (github.com)](https://github.com/Magic-Matrix/YoloX-Pytorch/blob/master/YOLOX Exceeding YOLO Series in 2021.md)
 
 ### 训练
 
